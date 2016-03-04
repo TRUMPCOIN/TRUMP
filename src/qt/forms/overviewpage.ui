@@ -215,7 +215,7 @@
            <bool>false</bool>
           </property>
           <property name="alignment">
-           <set>Qt::AlignCenter</set>
+           <set>Qt::AlignLeft</set>
           </property>
           <property name="margin">
            <number>-2</number>
