@@ -44,7 +44,7 @@ namespace Checkpoints
 
     static const CCheckpointData data = {
         &mapCheckpoints,
-        1456654847 // * UNIX timestamp of last checkpoint block
+        1456924936 // * UNIX timestamp of last checkpoint block
     };
 
     static MapCheckpoints mapCheckpointsTestnet =

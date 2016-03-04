@@ -1,4 +1,4 @@
-www.TrumpCoin.org
+www.trumpcoin.rocks
 ====================
 
 Copyright (c) 2009-2014 Bitcoin Developers
@@ -30,7 +30,7 @@ Unpack the files into a directory and run:
 - bin/64/TrumpCoin-qt (GUI, 64-bit)
 - bin/64/TrumpCoin (headless, 64-bit)
 
-See the documentation at the [limeoin Wiki](http://TrumpCoin.org)
+See the documentation at the [limeoin Wiki](http://trumpcoin.rocks)
 for help and more information.
 
 

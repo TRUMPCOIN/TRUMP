@@ -134,6 +134,6 @@ I stopped digging after the reboot solved the issue.)
 
 
 
-If you need more help please visit TrumpCoin Forum at www.TrumpCoin.org
+If you need more help please visit TrumpCoin Forum at www.trumpcoin.rocks
 
 

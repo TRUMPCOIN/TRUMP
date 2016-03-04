@@ -7,7 +7,7 @@ SetCompressor /SOLID lzma
 !define REGKEY "SOFTWARE\$(^Name)"
 !define COMPANY "TrumpCoin project"
 !define VERSION 0.9.0.0
-!define URL http://www.TrumpCoin.org/
+!define URL http://www.trumpcoin.rocks/
 
 # MUI Symbol Definitions
 !define MUI_ICON "../share/pixmaps/bitcoin.ico"
